@@ -4,8 +4,10 @@ A starting place for Project 03
 
 
 ```
-# Project Name
+# Project 3: Brick Breaker
 Context and date
+10/10/2022
+An juiced up breakout.
 
 Description
 
@@ -17,4 +19,5 @@ Which features you included
 ## Future Development
 
 ## Created by
+Daniel Gramling
 ```
